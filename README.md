@@ -6,4 +6,4 @@
  Day 2: Diabetes prediction using Support Vector Classifier model and Feature importance visualization and plotting various visualizations. [Classification problem] <br/>
  Day 3: Boston House Price prediction using XGBoost Regressor model and Feature importance visualization using PyPlot and XGBoost. [Regression problem] <br/>
  Day 4: Fake News prediction using Logistic Regression model, Random Forest Classifier and Feature importance visualization using PyPlot and comparing both the models accuracy using visualization. [Classification problem] <br/>
-
+ Day 5: Loan Status prediction using Support Vector Classifier model and creating a prediction system for user input.[Classification problem] <br/>
